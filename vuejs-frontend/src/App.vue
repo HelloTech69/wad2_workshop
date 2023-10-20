@@ -83,7 +83,7 @@
   </div>
 </template>
     
-<!-- Frontend script for pulling the data from our backend! -->
+<!-- Frontend script for pulling the data from our backend! idiot --> 
 <script>
 import axios from 'axios'
 
